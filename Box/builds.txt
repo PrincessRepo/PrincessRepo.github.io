@@ -1,0 +1,39 @@
+id="plugin.program.princess"
+version="1.0"
+zip="https://raw.githubusercontent.com/PrincessRepo/princessrepo.github.io/master/plugin.program.princess-1.0.zip"
+
+name="Build Princess Full"
+version="1.0"
+<<<<<<< HEAD
+url="https://archive.org/download/buildprincess1.0/BuildPrincess-1.0.zip"
+=======
+url="https://raw.githubusercontent.com/PrincessRepo/lfs/master/BuildPrincess-1.0.zip"
+>>>>>>> parent of 0d0324c... Merge branch 'master' of https://github.com/PrincessRepo/princessrepo.github.io
+minor="http://"
+gui="http://"
+kodi="18.3"
+theme="http://"
+icon="https://i.imgur.com/4P9KwEK.png"
+fanart="https://i.imgur.com/WiFKthA.jpg"
+preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
+adult="no"
+info="http://"
+description="Princess Wizards te permite acceder a las ultimas versiones personalizadas."
+
+<<<<<<< HEAD
+name="Build Princess"
+version="1.0"
+url="https://archive.org/download/Wizard.Princess.Krypton_201901/Wizard.Princess.Krypton.zip"
+minor="http://"
+gui="http://"
+kodi="17.6"
+theme="http://"
+icon="https://i.imgur.com/rnMZpCg.png"
+fanart="https://i.imgur.com/Gt8oBiq.jpg"
+preview="https://"
+adult="no"
+info="http://"
+description="Princess Wizard te permite personalizar las versiones de Kodi 17"
+
+=======
+>>>>>>> parent of 0d0324c... Merge branch 'master' of https://github.com/PrincessRepo/princessrepo.github.io
