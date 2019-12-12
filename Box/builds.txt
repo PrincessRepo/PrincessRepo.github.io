@@ -32,7 +32,7 @@ description="Princess Wizard te permite personalizar las versiones de Kodi 17"
 
 name="Build Princess Lite"
 version="1.0"
-url="http://ikodi.x10host.com/Kodi/Wizards/build.krypton.lite.zip"
+url="https://archive.org/download/Wizard.Princess.Krypton_201802/build.princess.krypton.lite.zip"
 minor="http://"
 gui="http://"
 kodi="17.6"
