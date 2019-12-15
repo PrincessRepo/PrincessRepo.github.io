@@ -18,7 +18,7 @@ description="Princess Wizards te permite acceder a las ultimas versiones persona
 
 name="Build Princess para Decos"
 version="1.0"
-url="http://ikodi.x10host.com/Kodi/Wizards/build.leia.deco.zip"
+url="https://archive.org/download/build.leia.deco/build.leia.deco.zip"
 minor="http://"
 gui="http://"
 kodi="18.5"
