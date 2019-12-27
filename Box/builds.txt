@@ -88,7 +88,7 @@ description="Princess Wizard te permite personalizar las versiones de Kodi 17"
 
 name="Princess prueba"
 version="1.0"
-url="http://dominio.x10host.com/Kodi.zip"
+url=""
 minor="http://"
 gui="http://"
 kodi="17.6"
