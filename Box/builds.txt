@@ -18,7 +18,7 @@ description="Princess Wizards te permite acceder a las ultimas versiones persona
 
 name="Wizard Princess & Kids Leia"
 version="1.0"
-url="https://pastebin.com/raw/519Wia6J"
+url="https://archive.org/download/Wizard.Leia.Princess.Baby_20190203/Wizard.Leia.Princess.Baby.zip"
 minor="http://"
 gui="http://"
 kodi="18.8"
